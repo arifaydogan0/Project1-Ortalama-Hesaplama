@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1-Ortalama Hesaplama", "Project1-Ortalama Hesaplama\Project1-Ortalama Hesaplama.csproj", "{2E5C2936-CD78-44F8-82C6-67E9CC7C6183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5C2936-CD78-44F8-82C6-67E9CC7C6183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5C2936-CD78-44F8-82C6-67E9CC7C6183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5C2936-CD78-44F8-82C6-67E9CC7C6183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5C2936-CD78-44F8-82C6-67E9CC7C6183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A5E079-434D-4842-8C46-616E219D1083}
+	EndGlobalSection
+EndGlobal
